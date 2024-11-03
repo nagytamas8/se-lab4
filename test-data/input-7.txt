@@ -1,0 +1,2 @@
+GT4500,0,0,0,0  # Initialize with both stores empty
+TORPEDO,SINGLE

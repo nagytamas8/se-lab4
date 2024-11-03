@@ -1,0 +1,2 @@
+GT4500,10,0,10,0  # Initialize with 10 torpedoes in each store, failure rate 0 (never fails)
+TORPEDO,UNKNOWN

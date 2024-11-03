@@ -1,0 +1,3 @@
+GT4500,1,0,0,0  # Inicializálás, elsődleges tárolóban 1 torpedó, másodlagos tároló üres, hibaarány 0 mindkettőnél
+TORPEDO,SINGLE
+TORPEDO,SINGLE

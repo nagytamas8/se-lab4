@@ -1,0 +1,3 @@
+GT4500,2,0,0,0  # Inicializálás, mindkét tárolóban 1 torpedó, hibaarány 0 (sohasem hibásodik meg)
+TORPEDO,SINGLE  # Első tüzelés az elsődleges tárolóból, mivel még nem lőttünk
+TORPEDO,SINGLE

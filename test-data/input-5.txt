@@ -1,0 +1,2 @@
+GT4500,0,0,10,0  # Initialize with the primary store empty and the secondary store with 10 torpedoes, failure rate 0
+TORPEDO,ALL 
